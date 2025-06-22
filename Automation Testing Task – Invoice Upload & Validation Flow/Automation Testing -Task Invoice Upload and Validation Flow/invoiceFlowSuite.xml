@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestInvoiceFlow">
+    <test name="testClass">
+        <classes>
+            <class name="InvoiceFlowE2E" />
+        </classes>
+    </test>
+</suite>
